@@ -1,4 +1,4 @@
-img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img <h1 align="center">Hi 👋, I'm Balachandran</h1>
+href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img <h1 align="center">Hi 👋, I'm Balachandran</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balachandran-tech&label=Profile%20views&color=0e75b6&style=flat" alt="balachandran-tech" /> </p>
